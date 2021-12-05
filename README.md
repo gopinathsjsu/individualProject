@@ -8,3 +8,12 @@
 
 Note: the jar is preset in the root director of the project
 
+### Ouput?
+
+*Input1
+
+
+*Input2
+
+
+*Input3
