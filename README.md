@@ -5,6 +5,12 @@
 
  - command to run 
  ```java -jar 202IndividualProject.jar`pathToDataset.csv pathToCards.csv pathToInput.csv outputDirPath```
+ 
+ eg:
+ 
+   ![](202IndividualProject/src/screenshots/cli.PNG)
+ 
+ 
 
 Note: the jar is preset in the root director of the project
 
