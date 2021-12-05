@@ -20,8 +20,10 @@ Note: the jar is preset in the root director of the project
 
 
 - Output for Input2
+
   ![](202IndividualProject/src/screenshots/output2.PNG)
 
 
 - Output for Input3
+
   ![](202IndividualProject/src/screenshots/out3.PNG)
