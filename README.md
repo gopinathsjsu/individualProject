@@ -11,16 +11,17 @@ Note: the jar is preset in the root director of the project
 ### Ouput?
 
  - Output for Input1
-![](202IndividualProject/src/screenshots/out1.PNG)
-
-![](202IndividualProject/src/screenshots/Card1.PNG)
+ 
+  ![](202IndividualProject/src/screenshots/out1.PNG)
+ 
+  ![](202IndividualProject/src/screenshots/Card1.PNG)
 
 
 
 
 - Output for Input2
-![](202IndividualProject/src/screenshots/out3.PNG)
+  ![](202IndividualProject/src/screenshots/output2.PNG)
 
 
 - Output for Input3
-![](202IndividualProject/src/screenshots/out2.PNG)
+  ![](202IndividualProject/src/screenshots/out3.PNG)
