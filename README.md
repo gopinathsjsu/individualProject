@@ -10,10 +10,10 @@ Note: the jar is preset in the root director of the project
 
 ### Ouput?
 
-Input1
+ - Output for Input1
 
 
-Input2
+- Output for Input2
 
 
-Input3
+- Output for Input3
