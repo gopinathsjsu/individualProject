@@ -53,7 +53,7 @@ Note: the jar is preset in the root director of the project
 
   ![](202IndividualProject/src/screenshots/Facade.PNG)
   
-  Have used the facade pattern to encapulate the complexity of file reading and writing from the rest of the code. Which alloows the business logic to
+  Have used the facade pattern to encapulate the complexity of file reading and writing from the rest of the code. Which allows the business logic to
   be much cleaner and gives flexibilty to modify I/O in the future. 
 
   
