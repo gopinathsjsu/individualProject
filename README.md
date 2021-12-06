@@ -46,9 +46,10 @@ Note: the jar is preset in the root director of the project
   ![](202IndividualProject/src/screenshots/State.PNG)
   
   Have used the state pattern to move between various states of the order such as billing, valid and invalid order state which gives 
-  flexibilty in handling functionality such as output for each state.
+  flexibilty in handling functionality such as output for each state and also gives flexibilty to add more states in the future to handle 
+  more functionality in the future.
 
-- State Pattern
+- Facade Pattern
 
   ![](202IndividualProject/src/screenshots/Facade.PNG)
   
