@@ -12,7 +12,7 @@
  
  
 
-Note: the jar is preset in the root director of the project
+Note: the jar is preset in the root director of the project and jdk version used is 11.0.11.
 
 ### Ouput?
 
