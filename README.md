@@ -21,6 +21,8 @@ Note: the jar is preset in the root director of the project
    ![](202IndividualProject/src/screenshots/out1.PNG)
   
    ![](202IndividualProject/src/screenshots/Card1.PNG)
+   
+   ![](202IndividualProject/src/screenshots/out1_cli.PNG)
 
 
 
@@ -29,10 +31,13 @@ Note: the jar is preset in the root director of the project
 
   ![](202IndividualProject/src/screenshots/output2.PNG)
 
+  ![](202IndividualProject/src/screenshots/out2_cli.PNG)
 
 - Output for Input3
 
   ![](202IndividualProject/src/screenshots/out3.PNG)
+  
+  ![](202IndividualProject/src/screenshots/out3_cli.PNG)
   
 ### Patterns
 
